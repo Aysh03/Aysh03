@@ -50,4 +50,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysh03&show_icons=true&locale=en" alt="aysh03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh03&" alt="aysh03" /></p>

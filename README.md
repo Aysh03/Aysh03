@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysh03&label=Profile%20views&color=0e75b6&style=flat" alt="aysh03" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aysh03](https://github.com/Aysh03)
+- 👨‍💻 All of my projects are available at [https://www.ayushrajpillai.com](https://www.ayushrajpillai.com/)
 
 - 💬 Ask me about **Angular,Spring Boot**
 

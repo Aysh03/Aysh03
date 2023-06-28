@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **Languages are bae ❤️**
 
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayshrajpillai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayshrajpillai" height="30" width="40" /></a>
@@ -46,7 +47,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> 
              </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysh03&show_icons=true&locale=en&layout=compact" alt="aysh03" /></p>
+<p><img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=aysh03&show_icons=true&locale=en&layout=compact" alt="aysh03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysh03&show_icons=true&locale=en" alt="aysh03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=aysh03&show_icons=true&locale=en" alt="aysh03" /></p>
 

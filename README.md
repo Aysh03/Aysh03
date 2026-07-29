@@ -1,4 +1,4 @@
-![logo](https://github.com/Aysh03/Aysh03/blob/main/my%20banner%20for%20github.png)
+![logo](https://github.com/Aysh03/Aysh03/blob/main/personal_github_banner.png)
 
 <h1 align="center">Hi 👋, I'm Ayush Raj Pillai</h1>
 <h3 align="center">A passionate AI Engineer & Full Stack Developer from India</h3>

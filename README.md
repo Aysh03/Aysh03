@@ -13,13 +13,12 @@
 
 - 👯 I’m looking to collaborate on **Open-Source AI projects**
 
-- 💬 Ask me about **Generative AI, LLM Agents, AWS, AIOps, and React**
+- 💬 Ask me about **Generative AI, LLM Agents, AWS, AIOps, and MERN/React**
 
 - 📫 How to reach me **Ayushrajpillai@gmail.com**
 
 - ⚡ Fun fact **Languages are bae ❤️**
 
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayshrajpillai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayshrajpillai" height="30" width="40" /></a>
@@ -30,6 +29,7 @@
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/></a>
 <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="cloudwatch" width="80" height="80"/></a>
